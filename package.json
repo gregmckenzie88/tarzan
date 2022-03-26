@@ -1,0 +1,19 @@
+{
+  "name": "tarzan",
+  "version": "1.0.0",
+  "description": "Swing between git branches with ease!",
+  "main": "tarzan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tz": "src/tarzan.js"
+  },
+  "keywords": [],
+  "author": "Greg McKenzie",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
